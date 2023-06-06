@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+a {
+    color: black;
+    text-decoration: none;
+}
+
 body {
     margin: 64px;
     margin-top: 32px;
